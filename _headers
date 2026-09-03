@@ -1,0 +1,7 @@
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  Content-Security-Policy: default-src 'self' https://www.hymeg.com; script-src 'none'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' https://www.hymeg.com data:; connect-src 'none'; object-src 'none'; media-src 'none'; frame-src 'none'; frame-ancestors 'self'; base-uri 'none'; form-action 'self' https://www.hymeg.com; upgrade-insecure-requests
