@@ -1,0 +1,36 @@
+# Hymeg Corporation
+
+> Precision, high-value, and high-voltage thick film resistors and resistor networks. Parent company: Electro Technik Industries, Inc.
+
+Hymeg engineers specialize in thick film resistors with over 40 years of experience. Products cover roughly 1.0–30.0 KVDC and average power ratings up to 6 watts, for medical, defense, laser, instrumentation, and commercial applications. Custom resistors and fast lead times are available.
+
+## Contact
+
+- Phone: (800) 322-1953
+- Email: HYMEG@ELECTROTECHNIK.COM
+- Address: P.O. Box 18802, Clearwater, FL 33762, USA
+- Cage Code: 9T572
+
+## Products
+
+- [Thick Film High-Voltage Resistors (HV series)](https://www.hymeg.com/thick-film-resistor-high-voltage.html): 1–6 W; higher voltages and power densities; values to 50,000 Meg Ohms
+- [Precision Thick Film Resistors (HA series)](https://www.hymeg.com/precision-thick-film-resistor-high-voltage.html): 0.5–5 W; tighter tolerances and lower TCR
+- [Precision Plate Resistors & Dividers (FV / DVN)](https://www.hymeg.com/precision-plate-resistor-high-voltage.html): 1–6 W; high voltage stability; up to ~30 KVDC
+- [High Value Non-Inductive Thick Film (FA series)](https://www.hymeg.com/high-value-non-inductive-thick-film-resistor-high-voltage.html): 0.5–5 W; non-inductive; values up to 4 Tera Ohms
+
+PDF datasheets for individual SKUs are under https://www.hymeg.com/assets/ (e.g. HV60.pdf, HA100.pdf, FV15.pdf, FA200.pdf).
+
+## Key pages
+
+- [Home](https://www.hymeg.com/)
+- [About Hymeg](https://www.hymeg.com/about-eti.html)
+- [Contact](https://www.hymeg.com/contact-eti.html)
+- [Privacy Policy](https://www.hymeg.com/privacy-policy.html)
+- [HTML Sitemap](https://www.hymeg.com/sitemap.html)
+- [XML Sitemap](https://www.hymeg.com/sitemap.xml)
+- [Full AI / LLM summary](https://www.hymeg.com/llms-full.txt)
+
+## Optional
+
+- Parent company site: https://electrotechnik.com/
+- ISO 9001:2015 certification (ETI): https://electrotechnik.com/pdf/ISO%209001-2015%202021%20cert%20FL.pdf

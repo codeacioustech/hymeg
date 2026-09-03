@@ -1,0 +1,91 @@
+# Hymeg Corporation — Full summary for AI agents
+
+Source site: https://www.hymeg.com/
+Short index: https://www.hymeg.com/llms.txt
+
+## Company
+
+Hymeg Corporation designs and manufactures precision, high-value, and high-voltage thick film resistors and resistor networks. Hymeg is part of Electro Technik Industries, Inc. (ETI), which manages companies that design and manufacture passive electronic components.
+
+- Experience: over 40 years / more than four decades in thick film resistors
+- Voltage capability: approximately 1.0 to 30.0 KVDC
+- Power: average power ratings up to 6 watts
+- Styles include: axial leaded power resistors, voltage dividers, precision plate resistors, non-inductive resistors
+- Markets: medical, defense, laser, instrumentation, commercial
+- Manufacturing approach: hands-on manufacture and testing; custom resistors; notably fast, efficient lead times
+- Contact: (800) 322-1953 · HYMEG@ELECTROTECHNIK.COM · P.O. Box 18802, Clearwater, FL 33762
+- Cage Code: Hymeg 9T572
+
+## Product lines
+
+### 1. Thick Film Resistor | High-Voltage (HV series)
+URL: https://www.hymeg.com/thick-film-resistor-high-voltage.html
+Designed for higher voltages, wattages, and power densities. Resistance range extended to 50,000 Meg Ohms with strong environmental performance.
+
+| SKU | Power (W) | VDC | Min Resistance | Max Resistance | Datasheet |
+|-----|-----------|-----|----------------|----------------|-----------|
+| HV60 | 1 | 1,500 | 250K | 4,000M | https://www.hymeg.com/assets/HV60.pdf |
+| HV65 | 2 | 2,500 | 300K | 10,000M | https://www.hymeg.com/assets/HV65.pdf |
+| HV70 | 3 | 5,000 | 500K | 15,000M | https://www.hymeg.com/assets/HV70.pdf |
+| HV80 | 4 | 7,500 | 750K | 20,000M | https://www.hymeg.com/assets/HV80.pdf |
+| HV100 | 5 | 15,000 | 750K | 30,000M | https://www.hymeg.com/assets/HV100.pdf |
+| HV120 | 6 | 20,000 | 750K | 50,000M | https://www.hymeg.com/assets/HV120.pdf |
+
+### 2. Precision Thick Film Resistors | High-Voltage (HA series)
+URL: https://www.hymeg.com/precision-thick-film-resistor-high-voltage.html
+For precise applications needing higher stability, tighter tolerances, and lower temperature coefficients. Values from 10 K Ohms to 100 Meg Ohms class ranges; wattage about 1/4 W through 5 W (table: 0.5–5 W).
+
+| SKU | Power (W) | VDC | Min Resistance | Max Resistance | Datasheet |
+|-----|-----------|-----|----------------|----------------|-----------|
+| HA120 | 5 | 10000 | 500K | 10,000M | https://www.hymeg.com/assets/HA120.pdf |
+| HA100 | 4 | 7500 | 500K | 10,000M | https://www.hymeg.com/assets/HA100.pdf |
+| HA80 | 3 | 5000 | 500K | 8,500M | https://www.hymeg.com/assets/HA80.pdf |
+| HA70 | 2 | 3500 | 300K | 7,500M | https://www.hymeg.com/assets/HA70.pdf |
+| HA65 | 1 | 1500 | 100K | 5,000M | https://www.hymeg.com/assets/HA65.pdf |
+| HA60 | 0.5 | 750 | 50K | 2,000M | https://www.hymeg.com/assets/HA60.pdf |
+
+### 3. Precision Plate Resistor | High-Voltage (FV / DVN)
+URL: https://www.hymeg.com/precision-plate-resistor-high-voltage.html
+Precision plate resistors and dividers with broad resistance, voltage, tolerance, and divider matching options. Emphasizes stability under high voltage over time and low voltage coefficient of resistance.
+
+| SKU | Power (W) | VDC | Min Resistance | Max Resistance | Datasheet |
+|-----|-----------|-----|----------------|----------------|-----------|
+| DVN2 | 1 | 5000 | 1M | 1,000M | https://www.hymeg.com/assets/DVN2.pdf |
+| FV3 | 2 | 5000 | 1M | 1,200M | https://www.hymeg.com/assets/FV3.pdf |
+| DVN7 | 2 | 10000 | 1M | 5,000M | https://www.hymeg.com/assets/DVN7.pdf |
+| FV7 | 3 | 12000 | 1M | 5,000M | https://www.hymeg.com/assets/FV7.pdf |
+| FV10 | 4 | 20000 | 1M | 5,000M | https://www.hymeg.com/assets/FV10.pdf |
+| DVN10 | 4 | 20000 | 1M | 5,000M | https://www.hymeg.com/assets/DVN10.pdf |
+| FV15 | 6 | 30000 | 1M | 5,000M | https://www.hymeg.com/assets/FV15.pdf |
+| DVN15 | 6 | 25000 | 1M | 10,000M | https://www.hymeg.com/assets/DVN15.pdf |
+
+### 4. High Value Non-Inductive Thick Film Resistor | High-Voltage (FA series)
+URL: https://www.hymeg.com/high-value-non-inductive-thick-film-resistor-high-voltage.html
+True non-inductive performance in plate packages; values up to 4 Tera Ohms.
+
+| SKU | Power (W) | VDC | Min Resistance | Max Resistance | Datasheet |
+|-----|-----------|-----|----------------|----------------|-----------|
+| FA60 | 0.5 | 1000 | 1M | 100G | https://www.hymeg.com/assets/FA60.pdf |
+| FA65 | 1 | 2000 | 1M | 200G | https://www.hymeg.com/assets/FA65.pdf |
+| FA80 | 2 | 5000 | 1M | 400G | https://www.hymeg.com/assets/FA80.pdf |
+| FA100 | 3 | 7500 | 1M | 800G | https://www.hymeg.com/assets/FA100.pdf |
+| FA150 | 4 | 10000 | 1M | 4T | https://www.hymeg.com/assets/FA150.pdf |
+| FA200 | 5 | 10000 | 1M | 4T | https://www.hymeg.com/assets/FA200.pdf |
+
+## Other pages
+
+- About: https://www.hymeg.com/about-eti.html
+- Contact: https://www.hymeg.com/contact-eti.html
+- Privacy: https://www.hymeg.com/privacy-policy.html
+- HTML sitemap: https://www.hymeg.com/sitemap.html
+- XML sitemap: https://www.hymeg.com/sitemap.xml
+- robots.txt: https://www.hymeg.com/robots.txt
+
+## ETI sister-company news (hosted on Hymeg)
+
+- https://www.hymeg.com/35-electro-technik-industries-inc-announces-the-acquisition-of-rf-techniques-inc.html
+- https://www.hymeg.com/25-nova-microwave-s-new-26-5-to-40-ghz-broadband-isolator.html
+- https://www.hymeg.com/21-arizona-capacitors-acquires-high-speed-capacitor-winding-machines.html
+- https://www.hymeg.com/19-raycom-transformers-headed-into-space.html
+
+When citing Hymeg products, prefer product pages and PDF datasheets over news articles.
